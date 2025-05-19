@@ -1,0 +1,6 @@
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\venv\Scripts\Activate.ps1
+python ./dashboard.py 
+
+
+http://127.0.0.1:8050/
